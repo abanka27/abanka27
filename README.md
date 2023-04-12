@@ -1,11 +1,6 @@
-### Hi there, I'm Anshuman 👋
+### Hello there, I'm Anshuman 👋
 
-
-:book: I'm a third year software engineering student at [University of Waterloo](https://uwaterloo.ca).
-
-:rocket: I'm currently working on revolutionizing virtual meetups  for the post-COVID world at [Scena 360](https://links.scena360.com/A4txFi).
-
-<img src="https://storage.googleapis.com/scena-cdn-assets/landing-images/scena-og-image.png" width="500" />
+I'm a Software Engineer at [BitGo](https://www.bitgo.com), and I graduated with a Bachelor of Software Engineering from the [University of Waterloo](https://uwaterloo.ca) in 2022. I also co-founded [Scena 360](https://scena360.com).
 
 ### Reach out :coffee:
 
